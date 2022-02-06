@@ -1,7 +1,7 @@
 # My name is Jose
 
 ## Welcome to my profile 👋🏾
-- 🔭 I’m currently working on my portfolio website[website]!
+- 🔭 I’m currently working on my portfolio website [website]!
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: Lopez.jose124@icloud.com
