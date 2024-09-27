@@ -1,7 +1,7 @@
 # My name is Jose
 
 ## Welcome to my profile 👋🏾
-- 🔭 I’m currently working on my personal [website]!
+- 🔭 I’m currently working on my personal [website]! (work is still in progress. i stopped orking on the site to focus on coursework)
 - 🌱 I’m currently learning HTML, CSS and Javascript 
 - 👯 I’m looking to collaborate on open source projects in the near future
 - 📫 How to reach me: Lopez.jose124@icloud.com
